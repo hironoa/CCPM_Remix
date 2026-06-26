@@ -1,0 +1,8 @@
+{
+  "name": "Remix: CCPM Local Project Manager",
+  "description": "CCPM (Critical Chain Project Management) tool with Gantt charts, PERT charts, Fever charts, WBS, Kanban, and local resource loading visualization. Runs 100% locally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
